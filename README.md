@@ -7,7 +7,7 @@ A simple **Spotify Web UI clone** built with **HTML** and **CSS**. This project 
 ## 🚀 Live Link
 
 You can view the live version of this project by visiting:  
-[Spotify Web UI Clone Link](https://giridhar11411.github.io/spotify-web-ui-clone/)
+[Live Link](https://giridhar11411.github.io/spotify-web-ui-clone/)
 
 ---
 
